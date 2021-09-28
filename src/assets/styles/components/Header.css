@@ -1,0 +1,26 @@
+h1{
+    margin: 0!important;
+}
+
+.header {
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    top: 0;
+    padding: 0 50px;
+    width: calc(100% - 100px);
+}
+
+.button-mode {
+    width: 120px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Muli', sans-serif;
+    height: 50px;
+    letter-spacing: 1px;
+    margin: 10px 0;
+  }
